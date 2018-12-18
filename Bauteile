@@ -4,8 +4,8 @@ Bauteile
 1. Elektronik der Drohne
 ------------------------
 1.1 Flightcontroller
-  Ardupilot
-  KK Board
+  Ardupilot     -> ca. 30€ (Aliexpress)
+  KK Board Mini -> ca. 5€ (Hobbyking)
 1.2 ESC
 1.3 Brushlessmotoren
 
@@ -13,5 +13,7 @@ Bauteile
 2. Mechanik
 -----------
 2.1 Luftschrauben
-2.2 Gestell
-2.3 Landevorrichtung
+2.2 Motorträger
+2.3 Centerplates
+2.4 Landegestell
+2.5 Ausleger
